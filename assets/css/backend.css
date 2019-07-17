@@ -1,0 +1,17 @@
+.api-docs-addon .panel h2 {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+.api-docs-addon .panel {
+	padding-bottom: 15px;
+}
+
+.api-docs-addon .panel a i {
+	margin-left: 2px;
+}
+
+.api-docs-addon .panel p {
+	line-height: 22px;
+}

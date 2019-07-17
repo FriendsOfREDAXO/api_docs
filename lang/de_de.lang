@@ -1,0 +1,18 @@
+api_docs_title = API Docs
+
+api_docs_docs = Docs
+api_docs_api = API
+api_docs_r5_changes = R5 Änderungen
+api_docs_extension_points = Extension Points
+api_docs_rexvars = REDAXO Variablen
+api_docs_cheatsheet = R4 Cheatsheet
+api_docs_code_snippets = Code Snippets
+api_docs_howtos = How To's
+api_docs_faq = FAQ
+api_docs_github = GitHub
+api_docs_handbook = Handbuch
+
+api_docs_help = Hilfe
+api_docs_help_readme = Readme
+api_docs_help_changelog = Changelog
+api_docs_help_license = Lizenz
