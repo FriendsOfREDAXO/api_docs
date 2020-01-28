@@ -1,7 +1,8 @@
 package: api_docs
-version: '1.1.0'
-author: RexDude
-supportpage: http://www.redaxo.org/de/forum/
+version: '1.2.0-dev'
+author: Friends Of REDAXO
+supportpage: https://github.com/FriendsOfREDAXO/api_docs
+
 page:
     title: translate:api_docs_title
     perm: admin[]
@@ -16,5 +17,6 @@ page:
                 readme: { title: 'translate:help_readme' }
                 changelog: { title: 'translate:help_changelog' }
                 license: { title: 'translate:help_license' }
+
 requires:
     redaxo: '^5.0'
